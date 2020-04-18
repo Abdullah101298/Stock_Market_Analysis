@@ -15,7 +15,7 @@ This project consists of using VBA scripting to analyze real stock market data g
         (3) Find the percent change of the stock price. 
         (4) Find the total stock volume for each stock throughout the entire year. 
         
-<img src="https://github.com/Abdullah101298/Stock_Market_Analysis/blob/master/Images/VBA_Solution_2014.png?raw=true"  width="1000" height="350">
+<img src="https://github.com/Abdullah101298/Stock_Market_Analysis/blob/master/Images/VBA_Solution_2014.png?raw=true"  alt = "Image" width="1000" height="350">
                 
 ## Task 2 - Find the best and worse stocks 
 
