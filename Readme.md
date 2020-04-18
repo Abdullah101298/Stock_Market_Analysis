@@ -1,6 +1,6 @@
 # Stock Market Analysis 
 
-<img src="https://sites.duke.edu/perspective/files/2020/01/stock-market-getty-images-rf.jpg"  width="700" height="300">
+<img src="https://sites.duke.edu/perspective/files/2020/01/stock-market-getty-images-rf.jpg"  width="1000" height="300">
 
 ## Program: VBA Scripting 
 
