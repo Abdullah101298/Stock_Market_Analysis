@@ -13,6 +13,10 @@ This project consists of using VBA scripting to analyze real stock market data g
         (3) Find the percent change of the stock price. 
         (4) Find the total stock volume for each stock throughout the entire year. 
         
+[Stock_Image] : https://rice.bootcampcontent.com/Rice-Coding-Bootcamp/RU-HOU-DATA-PT-12-2019-U-C/raw/master/Homework/02-VBA-Scripting/Instructions/Images/moderate_solution.png
+
+![Script Image][Stock_Image]
+        
 ## Task 2 - Find the best and worse stocks 
 
         (1) Find the stock with the greatest percent increase and the stock with the greatest percent decrease. 
